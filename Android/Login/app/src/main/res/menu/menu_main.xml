@@ -1,0 +1,30 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="vs.in.de.uni_ulm.mreuter.login.activity.MainActivity">
+
+    <item
+        android:id="@+id/action_settings"
+        android:title="@string/action_settings"
+        android:icon="@drawable/ic_action_settings"
+        android:showAsAction="always">
+        <menu>
+            <item
+                android:id="@+id/action_change_pw"
+                android:showAsAction="never"
+                android:title="@string/action_change_pw"/>
+            <item
+                android:id="@+id/action_incoming_request"
+                android:showAsAction="never"
+                android:title="@string/action_incoming_request"/>
+            <item
+                android:id="@+id/action_incoming_new"
+                android:showAsAction="never"
+                android:title="@string/action_incoming_new"/>
+            <item
+                android:id="@+id/action_incoming_update"
+                android:showAsAction="never"
+                android:title="@string/action_incoming_update"/>
+        </menu>
+    </item>
+
+</menu>

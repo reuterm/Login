@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="package_name">vs.in.de.uni_ulm.mreuter.login</string>
+    <string name="app_name">Login</string>
+    <string name="title_activity_main">Entry Overview</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_save">Save</string>
+    <string name="action_change_pw">Change Password</string>
+    <string name="username">Username: </string>
+    <string name="hash">Hash: </string>
+    <string name="created">Created: </string>
+    <string name="website">Website: </string>
+    <string name="title_activity_key_edit">Edit Entry</string>
+    <string name="set">Set</string>
+    <string name="cancel">Cancel</string>
+    <string name="password_hint">Enter Password</string>
+    <string name="password_repeat_hint">Repeat Password</string>
+    <string name="title_dialog_set_password">Set new password to encrypt your application
+        data</string>
+    <string name="title_dialog_save_changes">Save Changes</string>
+    <string name="message_dialog_save_changes">Do you want to save your changes?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="action_incoming_request">Simulate Challenge</string>
+    <string name="action_incoming_new">Simulate New Key</string>
+    <string name="action_incoming_update">Simulate Update Key</string>
+    <string name="message_dialog_new_key">Do you want to proceed?</string>
+    <string name="title_dialog_new_key">DeviceID wants to create a new entry</string>
+    <string name="title_activity_new_key">Create New Entry</string>
+    <string name="header_activity_new_key">Please provide username and website of your new entry</string>
+    <string name="username_hint">Enter Username</string>
+    <string name="website_hint">Enter Website</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_delete">Delete</string>
+    <string name="title_dialog_delete_key">Delete Entry</string>
+    <string name="message_dialog_delete_key">Without the data you are not able to log in to the service</string>
+    <string name="delete">Delete</string>
+    <string name="account">Account: </string>
+    <string name="message_dialog_incoming_challenge">Grant access to the account displayed?</string>
+    <string name="title_dialog_incoming_challenge">DeviceID wants to log in</string>
+    <string name="title_dialog_update_key">DeviceID wants to update an existing entry</string>
+    <string name="message_dialog_update_key">Do you want to proceed?</string>
+    <string name="title_activity_update_key">Update Entry</string>
+    <string name="header_activity_update_key">Please update username and name of the website if necessary</string>
+    <string name="title_activity_sending">Sending Data</string>
+    <string name="message_activity_sending">Please approach NFC reader</string>
+
+</resources>

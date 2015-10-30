@@ -1,0 +1,5 @@
+<root>
+    <item name='org.spongycastle.jcajce.provider.asymmetric.ec.KeyFactorySpi'>
+        <annotation name='org.jetbrains.annotations.NotNull' />
+    </item>
+</root>
