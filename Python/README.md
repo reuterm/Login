@@ -1,3 +1,4 @@
+Possible python implementation to communicate with Login.
 Required Python Packages
 
 	- nfcpy https://code.launchpad.net/~stephen-tiedemann/nfcpy/trunk
