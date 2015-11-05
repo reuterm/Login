@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="vs.in.de.uni_ulm.mreuter.login" >
+    package="mreuter.login" >
 
     <uses-sdk
         android:maxSdkVersion="21"
@@ -23,7 +23,7 @@
 
                 <category android:name="android.intent.category.DEFAULT" />
 
-                <data android:mimeType="application/vnd.vs.in.de.uni_ulm.mreuter.login" />
+                <data android:mimeType="application/mreuter.login" />
             </intent-filter>
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
